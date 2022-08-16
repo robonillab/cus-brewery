@@ -22,4 +22,5 @@ public class BeerDTO {
     private String beerType;
     private Long upc;
 
+
 }
